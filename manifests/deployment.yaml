@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: ikhsan #sesuaikan ns
+  name: Nito #sesuaikan ns
 ---
 apiVersion: apps/v1
 kind: Deployment
